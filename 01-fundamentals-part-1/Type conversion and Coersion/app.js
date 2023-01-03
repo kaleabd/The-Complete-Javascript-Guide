@@ -1,5 +1,5 @@
 // type conversion and coersion
-// Written by kaleab dereje
+// by kaleab dereje
 
 // most of the time the inputs we get from the input fields are strings
 
