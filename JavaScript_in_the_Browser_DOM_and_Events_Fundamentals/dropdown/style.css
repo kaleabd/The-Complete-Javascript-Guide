@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    background-color: #f37f14;
+    padding: 1.2rem 0;
+}
+nav{
+    margin-top: 3rem;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 2rem;
+}
+ul li{
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 1.2rem 0;
+}
+
+.drop-content{
+    display: flex;
+    flex-direction: column;
+    margin: 20px 25%;
+    padding: 2rem ;
+    background-color: #f37f14;
+    transform: translateY(-1rem);
+}
+.hidden{
+    display: none;
+}
